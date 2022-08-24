@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+body {    
+    font-family: 'Teko', sans-serif;
+    }
+.header {
+	background: #FFA533;
+     width: 100%;
+  }
+.info2{
+    background-image: url(img/route.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+
+}
